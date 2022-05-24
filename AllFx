@@ -1,0 +1,187 @@
+sample :bass_hit_c
+sleep sample_duration :bass_hit_c
+
+with_fx :autotuner do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :band_eq do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :bitcrusher do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :bpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :compressor do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :bpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :compressor do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :distortion do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :echo do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :eq do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :flanger do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :gverb do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :hpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :ixi_techno do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :krush do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :level do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :mono do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :nbpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :normaliser do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :nrbpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :nrhpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :octaver do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :pan do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :panslicer do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :ping_pong  do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :pitch_shift do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :rbpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :ring_mod do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :rlpf do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :slicer do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :sound_out do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :sound_out_stereo do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :tanh do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :tremolo do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :vowel do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :whammy do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
+
+with_fx :wobble do
+  sample :bass_hit_c
+  sleep sample_duration :bass_hit_c
+end
