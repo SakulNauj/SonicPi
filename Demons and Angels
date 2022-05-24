@@ -1,0 +1,31 @@
+live_loop :beat do
+  stop
+  sample :bd_zum
+  sleep 0.5
+end
+
+#Demon
+live_loop :Demon do
+  #stop
+  with_fx :nrbpf, mix: 0.3, phase: 0.25 do
+    sample :loop_mehackit2,  attack:1, hpf_attack:1, pitch:1
+  end
+  sample :loop_electric, rate: 0.5
+  sleep 8
+end
+#Life
+live_loop :Life do
+  #stop
+  with_fx :ring_mod, room: 1 do
+    sample :loop_mika, amp: 10, rate: 1, sustain_level:1
+  end
+  sleep 8
+end
+#Angels
+live_loop :Angel do
+  stop
+  with_fx :echo do
+    sample :ambi_choir, attack:1, decay:1, sustain:1
+    sleep 0.5
+  end
+end
