@@ -1,0 +1,15 @@
+live_loop :guit do
+  with_fx :normaliser, mix:1 do
+    sample :loop_garzul, lpf_attack:1, compress:1
+    sample :elec_beep, release:0.5
+    sleep 1
+  end
+end
+
+live_loop :guit2 do
+  with_fx :nrbpf, mix: 0.3, phase: 0.25 do
+    sample :loop_mehackit2,  attack:1, hpf_attack:1, pitch:1
+  end
+  sample :loop_electric, rate: 0.5
+  sleep 8
+end
